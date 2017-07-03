@@ -25,3 +25,7 @@ elif ans == 2:
     print(q)
 
 
+#print(f)
+#q = web.get_quote_google(['AMZN', 'GOOG'])
+
+#print(q)
