@@ -1,9 +1,9 @@
-#!/usr/local/bin/python
+#!/usr/local/bin/python3
 
 import json
 import requests
 
-api_token = 'Your token'
+api_token = 'af2cf77069e57c11c02163070ddb8d8886031c2a4d835184f5d7436851c0e71d'
 api_url_base = 'https://api.digitalocean.com/v2/'
 
 headers = {'Content-Type': 'application/json',
